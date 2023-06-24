@@ -1,4 +1,3 @@
-#include "DerivedClass.h"
 #include <vector>
 #include <algorithm>
 #include "main.h"
